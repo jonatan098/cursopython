@@ -1,1 +1,2 @@
-# cursopython
+# Curso Python
+## Gustavo Guanabara
