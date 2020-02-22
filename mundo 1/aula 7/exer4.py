@@ -1,0 +1,7 @@
+s=input('escreva algo ')
+print('o tipo primitivo desse valor é', type(s))
+print('e alfabetico ? ', s.isalpha())
+print('e alfanumerico ? ', s.isalnum())
+print('e maiuscula ? ', s.isupper())
+print('e minuiscula ? ', s.islower())
+print('e numero ? ', s.isnumeric())
